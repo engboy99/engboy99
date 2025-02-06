@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a enthusiastic Computer Engineer
+- 👋 Hi, I'm an enthusiastic Computer Engineer
 - 👀 I’m interested in ... Cyber security, Mobile App dev, ML & AI, Cloud computing,Competitive Programming
 - 🌱 I’m currently learning ... devops, Blockchain
 - 💞️ I’m looking to collaborate on ...any open source project
